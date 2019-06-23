@@ -95,6 +95,7 @@
 		27DE49F222BF614300326E3C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		27DE49FB22BF6F0000326E3C /* P1071 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = P1071; sourceTree = BUILT_PRODUCTS_DIR; };
 		27DE49FD22BF6F0000326E3C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		27DE4A0322BF8E4500326E3C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		27E7EA2822BE46AA008229AC /* Luogu */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Luogu; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E7EA2B22BE46AA008229AC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -203,6 +204,7 @@
 		27E7EA1F22BE46AA008229AC = {
 			isa = PBXGroup;
 			children = (
+				27DE4A0322BF8E4500326E3C /* .gitignore */,
 				27E7EA2A22BE46AA008229AC /* Luogu */,
 				27DE49C522BE49BF00326E3C /* P1001 */,
 				27DE49D022BE4DD200326E3C /* P1563 */,
