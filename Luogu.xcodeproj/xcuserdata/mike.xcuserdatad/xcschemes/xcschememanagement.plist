@@ -58,7 +58,7 @@
 			<key>isShown</key>
 			<true/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>9</integer>
 		</dict>
 		<key>P1969.xcscheme_^#shared#^_</key>
 		<dict>
@@ -73,6 +73,11 @@
 			<true/>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+		<key>P3817.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
