@@ -6,58 +6,131 @@
 	<dict>
 		<key>CF304B.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
 		<key>Luogu.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
 		<key>P1001.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
 		<key>P1071.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
 		<key>P1303.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
 		<key>P1313.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
 		<key>P1563.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
 		<key>P1577.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>10</integer>
 		</dict>
 		<key>P1969.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
 		<key>P2038.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>P2678.xcscheme_^#shared#^_</key>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2723137D22BFA7ED0063AAFC</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>9</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2744676E22BFBCD80015CC79</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2744677922C070F80015CC79</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27D8AB3A22C074F500FB2C8E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49C322BE49BF00326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49CE22BE4DD200326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49D922BF195600326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49E422BF421100326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49EF22BF614300326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27DE49FA22BF6F0000326E3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27E7EA2722BE46AA008229AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
