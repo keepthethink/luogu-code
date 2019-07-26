@@ -2,8 +2,8 @@
 //  main.cpp
 //  P1313
 //
-//  Created by Kanger He on 2019/6/23.
-//  Copyright © 2019 Kanger He. All rights reserved.
+//  Created by Helium on 2019/6/23.
+//  Copyright © 2019 Helium. All rights reserved.
 //
 
 #include <iostream>

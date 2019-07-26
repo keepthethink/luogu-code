@@ -51,6 +51,11 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>P1551.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>P1563.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
@@ -88,6 +93,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>12</integer>
+		</dict>
+		<key>P3372.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
 		</dict>
 		<key>P3817.xcscheme_^#shared#^_</key>
 		<dict>
